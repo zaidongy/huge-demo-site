@@ -35,14 +35,3 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
-
-## Thi is my first post
-
-
-```this is a inline code```
-
-Title of code block here
-```javascript
-    let a = "this is a string";
-    return a;
-```
