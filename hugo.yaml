@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://cy-hugo.netlify.app/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
@@ -14,14 +14,14 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: CY Hugo Demo
+  description: "Hugo deployed on netlify"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Chris Yang
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  DateFormat: "August 2, 2024"
+  defaultTheme: auto # auto, dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
